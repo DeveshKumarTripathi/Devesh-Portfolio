@@ -24,19 +24,6 @@ Vercel
 
 
 
-📂 Project Structure
-portfolio/
-│
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── App.js
-│
-├── package.json
-└── README.md
-
 
 
 ⚙️ Installation & Setup
